@@ -19,10 +19,7 @@ Tensorflow, OpenCV, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB,   Angula
 6. Search Engine for News and Publishers
 
 
-<details>
-  <summary>GitHub Stats...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=amide-inc&show_icons=true&count_private=true&theme=dark" />
-</details>
+ <img src="https://github-readme-stats.vercel.app/api?username=amide-inc&show_icons=true&count_private=true&theme=dark" />
 
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amide-inc) 
 
