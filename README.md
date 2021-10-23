@@ -23,7 +23,8 @@ Tensorflow, OpenCV, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB,   Angula
   <summary>GitHub Stats...</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=amide-inc&show_icons=true&count_private=true&theme=dark" />
 </details>
- 
+
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amide-inc) 
 
 
 ![Profile views](https://gpvc.arturio.dev/amide-inc) 
