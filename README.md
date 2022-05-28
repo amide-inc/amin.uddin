@@ -2,13 +2,13 @@
 
 
 <h1> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h2> I am an Ai,  ML practitioner! , Full Stack Developer and EX-CTO of EXTRA! Insights</h2>
+<h2> I am an AI,  ML practitioner! , Full Stack Developer and EX-CTO of EXTRA! Insights</h2>
 
 ### 📜Skills:
- Machine Learning, Artificial Intelligence, Data Analytics, Data Structures, Python,  JavaScript, Java  & Public Speaking,
+ Machine Learning, Artificial Intelligence, Data Analytics, Computer Vision,  Data Structures, Python,  JavaScript,  & Public Speaking,
  
 ### 👨‍💻Frameworks:
-Tensorflow, OpenCV, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB,   Angular, Flutter, Google Cloud
+Tensorflow, OpenCV, NodeJS, Express, Flask, Bootstrap , Mongo DB,  Angular, Flutter, ReactJs, Google Cloud and AWS
 
 ### 🤖Projects:
 1. AI based COVID 19 Mask Detection Compliance.      
