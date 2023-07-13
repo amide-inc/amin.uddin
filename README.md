@@ -2,7 +2,8 @@
 
 
 <h1> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h2>Software Engineer @ Seawoods Ventures Inc</h2>
+<h2>EX- Software Engineer @ Skillgigs </h2>
+<h2>EX- Software Engineer @ Seawoods Ventures Inc</h2>
 <h2> I am an AI,  ML practitioner! , Full Stack Developer and EX-CTO of EXTRA! Insights</h2>
 
 ### 📜Skills:
